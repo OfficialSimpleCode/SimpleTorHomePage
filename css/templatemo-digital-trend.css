@@ -284,11 +284,10 @@ https://templatemo.com/tm-538-digital-trend
   .navbar-toggler {
     border: 0;
     padding: 0;
+    width: 100%;
     cursor: pointer;
-    margin: 0 10px 0 0;
-    width: 30px;
-    height: 35px;
     outline: none;
+    text-align: center;
   }
 
   .navbar-toggler:focus {
@@ -716,7 +715,7 @@ https://templatemo.com/tm-538-digital-trend
   @media screen and (max-width: 991px) {
 
     .hero {
-      padding-top: 14em;
+      padding-top: 1em;
     }
 
     .hero-text {
